@@ -1,4 +1,4 @@
-# Future price prediction
+# Future sales prediction
 Got this data from Kaggle, this is not meant for time-series predictions, but want to experiment to see if we could get a relative good prediction out of time-series models.
 
 ## Conclusion
